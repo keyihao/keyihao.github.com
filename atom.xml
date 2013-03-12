@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Octopress Blog Of KeYihao]]></title>
+  <link href="http://keyihao.github.com/atom.xml" rel="self"/>
+  <link href="http://keyihao.github.com/"/>
+  <updated>2013-03-12T17:56:43+08:00</updated>
+  <id>http://keyihao.github.com/</id>
+  <author>
+    <name><![CDATA[KeYihao]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[my first blog]]></title>
+    <link href="http://keyihao.github.com/blog/2013/03/12/my-first-blog/"/>
+    <updated>2013-03-12T17:07:00+08:00</updated>
+    <id>http://keyihao.github.com/blog/2013/03/12/my-first-blog</id>
+    <content type="html"><![CDATA[<p>Hello World!</p>
+]]></content>
+  </entry>
+  
+</feed>
